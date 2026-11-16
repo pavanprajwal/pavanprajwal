@@ -12,9 +12,7 @@ int main()
 
     printf("Sum = %d\n", sum);
  
-    printf("hello");
-
-    printf("changed in main branch")
+    printf("Hello from Main Branch\n");
 
 
     return 0;
