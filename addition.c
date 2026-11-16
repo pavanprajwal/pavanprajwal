@@ -11,6 +11,7 @@ int main()
     sum = a + b;
 
     printf("Sum = %d\n", sum);
+    printf("Hello from Feature Branch\n");
 
     return 0;
 }
